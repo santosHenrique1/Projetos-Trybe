@@ -1,0 +1,9 @@
+.img-responsive {
+  border-radius: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  height: 166px;
+  justify-content: center;
+
+}

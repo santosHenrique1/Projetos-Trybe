@@ -1,0 +1,109 @@
+.photo {
+  height: 161.85px;
+  left: -2px;
+  width: 362.01px;
+}
+
+.container {
+  display: inline-block;
+  position: relative;
+}
+
+.category {
+  border-color: rgba(252, 196, 54, 1);
+  border-style: solid;
+  border-width: 1.32px;
+  color: rgba(252, 196, 54, 1);
+  left: 20px;
+  margin-top: 14px;
+  position: absolute;
+  top: 0;
+}
+
+.favorite-btn {
+  left: 307px;
+  position: absolute;
+  top: 14px;
+}
+
+.share-btn {
+  left: 268px;
+  position: absolute;
+  top: 14px;
+}
+
+.recipe-title {
+  color: white;
+  font-size: 20px;
+  font-weight: 900;
+  height: 42px;
+  left: 109.01px;
+  letter-spacing: 0.105em;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 81px;
+  width: 147px;
+}
+
+.checked {
+  text-decoration: line-through solid black;
+}
+
+.shareIcon {
+  height: 20.3px;
+  width: 22.89px;
+}
+
+.favoriteIcon {
+  height: 20.3px;
+  width: 22.89px;
+}
+
+.card-Image00 {
+  height: 180px;
+  width: 180px;
+}
+
+.card-Container00 {
+  align-items: center;
+  display: flex;
+  gap: 3px;
+  overflow-x: scroll;
+}
+
+.video::-webkit-scrollbar {
+  display: none;
+}
+
+.startRecipeBtn {
+  background-color: rgba(252, 196, 54, 1);
+  border: none;
+  border-radius: 5px;
+  bottom: 0;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  left: 5%;
+  padding: 10px;
+  position: fixed;
+  text-align: center;
+  text-decoration: none;
+  width: 90%;
+}
+
+.finishBTN {
+  background-color: rgba(252, 196, 54, 1);
+  border: none;
+  border-radius: 5px;
+  bottom: 0;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  left: 5%;
+  padding: 10px;
+  position: fixed;
+  text-align: center;
+  text-decoration: none;
+  width: 90%;
+}
